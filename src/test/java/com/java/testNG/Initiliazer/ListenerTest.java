@@ -11,6 +11,7 @@ public class ListenerTest {
 	@BeforeTest
 	public void launch() {
 		System.out.println("Chrome Launching");
+		System.out.println("Done");
 	}
 
 	@Test
